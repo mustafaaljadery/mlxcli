@@ -6,7 +6,10 @@ Run large models locally through the terminal using [MLX](https://github.com/ml-
 
 **Features:**
 
-- Run models
+- Run lanauge models directly from the terminal.
+- Optimized for apple silicon using MLX.
+- Verbose output to measure the TPS & Time Elapsed.
+- Chat wiht context of your previous messages in the terminal.
 
 ## Installation & Usage
 
@@ -35,4 +38,4 @@ mlxcli run mistralai/Mistral-7B-Instruct-v0.2
 
 This library was created by [Mustafa Aljadery](https://www.maxaljadery.com/) & [Siddharth Sharma](). Contact Us for contribution!
 
-This was creating using Huggingface [mlx_lm](https://huggingface.co/docs/hub/en/mlx), shoutout to 🤗, and Apple [MLX](https://github.com/ml-explore/mlx).
+This was creating using Huggingface [mlx_lm](https://huggingface.co/docs/hub/en/mlx), shoutout to 🤗, and Apple [MLX](https://github.com/ml-explore/mlx) shoutout to [Awni Hannun](https://twitter.com/awnihannun).
