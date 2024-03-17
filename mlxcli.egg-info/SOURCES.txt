@@ -1,0 +1,11 @@
+README.md
+setup.py
+mlxcli/__init__.py
+mlxcli/generate.py
+mlxcli/main.py
+mlxcli.egg-info/PKG-INFO
+mlxcli.egg-info/SOURCES.txt
+mlxcli.egg-info/dependency_links.txt
+mlxcli.egg-info/entry_points.txt
+mlxcli.egg-info/requires.txt
+mlxcli.egg-info/top_level.txt
