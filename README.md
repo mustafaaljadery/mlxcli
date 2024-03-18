@@ -16,7 +16,7 @@ Run large models locally through the terminal using [MLX](https://github.com/ml-
 Download using `pip`:
 
 ```bash copy
-pip3 install mlxcli
+pip install mlxcli
 ```
 
 Select the model you want to use, browse all models on [Huggingface mlx-community](https://huggingface.co/mlx-community) 🤗
