@@ -45,7 +45,10 @@ mlxcli run mistralai/Mistral-7B-Instruct-v0.2
 
 To solve the following - `zsh: command not found: mlxcli` run:
 
--
+1. Locate the path using `pip show mlxcli`
+2. Open up zshrc using `vim ~/.zshrc`
+3. Add the path path to zshrc `export PATH="{path_from_pip_show}:$PATH"`
+4. Reload and apply changes: `source ~/.zshrc`
 
 ## Credits
 
