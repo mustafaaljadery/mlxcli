@@ -2,7 +2,7 @@
 
 Run large models locally through the terminal using [MLX](https://github.com/ml-explore/mlx).
 
-[IMAGE/VIDEO]
+![Demo image](./demo.png)
 
 **Features:**
 
