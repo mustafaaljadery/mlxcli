@@ -6,8 +6,8 @@ Run large models locally through the terminal using [MLX](https://github.com/ml-
 
 **Features:**
 
-- Run lanauge models directly from the terminal.
-- Optimized for apple silicon using MLX.
+- Run language models directly from the terminal.
+- Optimized for Apple Silicon using MLX.
 - Verbose output to measure the TPS & Time Elapsed.
 - Chat with context of your previous messages in the terminal.
 
@@ -19,7 +19,7 @@ Download using `pip`:
 pip install mlxcli
 ```
 
-Select the model you want to use, browse all models on [Huggingface mlx-community](https://huggingface.co/mlx-community) 🤗
+Select the model you want to use, browse all models on Huggingface [mlx-community](https://huggingface.co/mlx-community) 🤗
 
 ```bash copy
 mlxcli run mistralai/Mistral-7B-Instruct-v0.2
